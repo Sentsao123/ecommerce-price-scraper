@@ -20,7 +20,7 @@
 1. คัดลอกโปรเจกต์
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-scraper.git
+git clone https://github.com/Sentsao123/ecommerce-price-scraper.git
 cd ecommerce-scraper
 ```
 
