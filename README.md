@@ -21,7 +21,7 @@
 
 ```bash
 git clone https://github.com/Sentsao123/ecommerce-price-scraper.git
-cd ecommerce-scraper
+cd ecommerce-price-scraper
 ```
 
 2. สร้างและรัน containers
